@@ -3,7 +3,7 @@ package main
 import "github.com/01-edu/go-tests/lib/challenge"
 
 func main() {
-	args := [][]string {
+	args := [][]string{
 		{"S", "A"},
 		{"One", "ring!"},
 		{"A", "B"},

@@ -9,7 +9,6 @@ import (
 
 func main() {
 	years := []string{
-		//CamelCase
 		"CamelCase",
 		"camelCase",
 		"HelloWorld",
@@ -18,6 +17,10 @@ func main() {
 		"",
 		"A",
 		"abcs",
+		"AbC",
+		"AbCdEf",
+		"abcAree",
+		"ahe1Abde",
 		"ThisIsATest",
 	}
 	for _, arg := range years {

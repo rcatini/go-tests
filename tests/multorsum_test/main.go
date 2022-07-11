@@ -17,7 +17,7 @@ func main() {
 		{ints: []int{-1, 3}, init: 4},
 		{ints: []int{-1, 3, 5}, init: 0},
 		{ints: []int{-4, 3, 2}, init: -3},
-		{ints: []int{}, init: 2},
+		{ints: []int{}, init: -2},
 		{ints: []int{-100, 300}, init: 4000},
 		{ints: []int{-1, -1, 2, -2}, init: 5},
 		{ints: []int{-1345, 3}, init: 10},

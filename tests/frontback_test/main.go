@@ -1,8 +1,8 @@
 package main
 
 import (
-	"strings"
 	"github.com/01-edu/go-tests/lib/challenge"
+	"strings"
 )
 
 func main() {
@@ -15,6 +15,8 @@ func main() {
 		"a",
 		"z",
 		"HELLO WORLD",
+		"1",
+		"2",
 		" ",
 		"",
 	}

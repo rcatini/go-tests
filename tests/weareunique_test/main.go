@@ -24,6 +24,6 @@ func main() {
 		{"AB$%d.52", "eepqdl.52"},
 	}
 	for _, arg := range table {
-		challenge.Function("Weareunique", student.Weareunique, solutions.Weareunique, arg)
+		challenge.Function("Weareunique", student.Weareunique, solutions.Weareunique, arg[0], arg[1])
 	}
 }

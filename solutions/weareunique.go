@@ -7,11 +7,6 @@ func Weareunique(str1 string, str2 string) int {
 	var argv []string = []string{str1, str2}
 	k := 0
 	i := 0
-	for i < 127 {
-		used[i] = 0
-		i++
-	}
-	i = 0
 	for i < 2 {
 		j := 0
 		for j < len(argv[i]) {

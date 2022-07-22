@@ -9,8 +9,16 @@ import (
 
 func main() {
 	table := [][]string{
+		{"foo", "boo"},
+		{"abc", "def"},
+		{"hello", "yoall"},
+		{"everyone", ""},
+		{"hello world", "fam"},
 		{"", ""},
 		{"abc", "abc"},
+		{"", ""},
+		{"abc", "abc"},
+		{"pomme", "pomme"},
 		{"foo", "boo"},
 		{"abc", "def"},
 		{"+265", "265"},
